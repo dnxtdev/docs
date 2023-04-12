@@ -1,0 +1,11 @@
+# Whitelist Verifier
+
+This smart contract, `WhitelistVerifier`, is an abstract contract that serves as a module to verify if an address is whitelisted before allowing certain operations, such as token transfers. It imports and extends the AccessControl contract from OpenZeppelin and utilizes the previously provided `Whitelist` contract for whitelist management. The main features of this contract are as follows:
+
+1. **Whitelist Contract**: The contract holds a reference to a `Whitelist` contract instance, which it interacts with to check if an address is whitelisted.
+2. **Constructor**: The constructor function takes a single argument, `_whitelist`, which is the address of the `Whitelist` contract to be used for whitelist management. The constructor initializes the `whitelist` variable with a new `Whitelist` instance using the provided address.
+3. **changeWhitelist**: This function allows the contract owner to change the address of the `Whitelist` contract used for whitelist management. It takes a new address, `_whitelist`, as an argument and can only be called by an account with the `DEFAULT_ADMIN_ROLE`. The function updates the `whitelist` variable with a new `Whitelist` instance using the provided address.
+4. **checkWhitelist**: This is an internal view function that verifies if a given address, `_address`, is whitelisted by checking the `isWhitelisted()` function of the `Whitelist` contract. If the address is not whitelisted, it reverts the transaction with an error message, which includes the non-whitelisted address.
+5. **canTransfer**: This public view function checks if a given address, `_address`, is whitelisted by calling the `isWhitelisted()` function of the `Whitelist` contract. It returns a boolean value indicating whether the address is whitelisted, which can be useful for front-end applications to show or hide certain functionalities based on the whitelist status of a user.
+
+In summary, the `WhitelistVerifier` contract serves as a module to integrate whitelist verification into other contracts or token transfers, providing an additional layer of access control. This contract can be inherited by other contracts that require whitelist verification for specific operations, such as token transfers or access to certain features.

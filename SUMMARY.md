@@ -1,0 +1,72 @@
+# Table of contents
+
+## Whitepaper
+
+* [DNXT WhitePaper](README.md)
+* [Introduction](whitepaper/introduction/README.md)
+  * [Background and context](whitepaper/introduction/background-and-context.md)
+  * [Problem statement](whitepaper/introduction/problem-statement.md)
+  * [Solution](whitepaper/introduction/solution.md)
+* [Market Overview](whitepaper/market-overview/README.md)
+  * [Diamond industry](whitepaper/market-overview/diamond-industry.md)
+  * [DeFi](whitepaper/market-overview/defi.md)
+  * [NFT market and potential](whitepaper/market-overview/nft-market-and-potential.md)
+* [Regulatory Overview](whitepaper/regulatory-overview/README.md)
+  * [Data Act Article 30](whitepaper/regulatory-overview/data-act-article-30.md)
+  * [KYC/AML](whitepaper/regulatory-overview/kyc-aml.md)
+  * [GDPR and Privacy](whitepaper/regulatory-overview/gdpr-and-privacy.md)
+  * [Securities Law](whitepaper/regulatory-overview/securities-law.md)
+  * [Compliance](whitepaper/regulatory-overview/compliance.md)
+* [Diamond NXT Platform](whitepaper/diamond-nxt-platform/README.md)
+  * [Overview](whitepaper/diamond-nxt-platform/overview.md)
+  * [Ecosystem Participants](whitepaper/diamond-nxt-platform/ecosystem-participants.md)
+  * [Key features](whitepaper/diamond-nxt-platform/key-features/README.md)
+    * [Diamond Tokenization](whitepaper/diamond-nxt-platform/key-features/diamond-tokenization/README.md)
+      * [Minting Process](whitepaper/diamond-nxt-platform/key-features/diamond-tokenization/minting-process.md)
+      * [Redeeming Process](whitepaper/diamond-nxt-platform/key-features/diamond-tokenization/redeeming-process.md)
+    * [Trading interface](whitepaper/diamond-nxt-platform/key-features/trading-interface.md)
+    * [User Profile](whitepaper/diamond-nxt-platform/key-features/user-profile.md)
+    * [Analytics dashboard](whitepaper/diamond-nxt-platform/key-features/analytics-dashboard.md)
+    * [Staking system](whitepaper/diamond-nxt-platform/key-features/staking-system/README.md)
+      * [Rewards](whitepaper/diamond-nxt-platform/key-features/staking-system/rewards.md)
+  * [Smart Contracts](whitepaper/diamond-nxt-platform/smart-contracts/README.md)
+    * [DNXT](whitepaper/diamond-nxt-platform/smart-contracts/dnxt.md)
+    * [DNFT](whitepaper/diamond-nxt-platform/smart-contracts/dnft.md)
+    * [Whitelist](whitepaper/diamond-nxt-platform/smart-contracts/whitelist.md)
+    * [Whitelist Verifier](whitepaper/diamond-nxt-platform/smart-contracts/whitelist-verifier.md)
+    * [Redeem](whitepaper/diamond-nxt-platform/smart-contracts/redeem.md)
+    * [Staking](whitepaper/diamond-nxt-platform/smart-contracts/staking.md)
+  * [Security and Compliance](whitepaper/diamond-nxt-platform/security-and-compliance.md)
+* [DNXT Token](whitepaper/dnxt-token/README.md)
+  * [Token overview](whitepaper/dnxt-token/token-overview.md)
+  * [Tokenomics](whitepaper/dnxt-token/tokenomics/README.md)
+    * [Token allocation](whitepaper/dnxt-token/tokenomics/token-allocation.md)
+    * [Token distribution](whitepaper/dnxt-token/tokenomics/token-distribution.md)
+  * [Token utility](whitepaper/dnxt-token/token-utility/README.md)
+    * [Staking rewards](whitepaper/dnxt-token/token-utility/staking-rewards.md)
+    * [Redeem discounts](whitepaper/dnxt-token/token-utility/redeem-discounts.md)
+    * [Governance](whitepaper/dnxt-token/token-utility/governance.md)
+* [Diamond NFT](whitepaper/diamond-nft.md)
+* [Development roadmap](whitepaper/development-roadmap/README.md)
+  * [Expansion to Other Asset Classes](whitepaper/development-roadmap/expansion-to-other-asset-classes.md)
+  * [Integration with DeFi](whitepaper/development-roadmap/integration-with-defi.md)
+* [Conclusion](whitepaper/conclusion.md)
+* [References and Resources](whitepaper/references-and-resources.md)
+
+## Tutorials and guides
+
+* [Connecting a Wallet](tutorials-and-guides/connecting-a-wallet.md)
+* [Diamond NFT](tutorials-and-guides/diamond-nft/README.md)
+  * [Trading Diamonds](tutorials-and-guides/diamond-nft/trading-diamonds.md)
+  * [Minting Diamonds](tutorials-and-guides/diamond-nft/minting-diamonds.md)
+  * [Redeeming Diamonds](tutorials-and-guides/diamond-nft/redeeming-diamonds.md)
+
+***
+
+* [DNXT](dnxt/README.md)
+  * [Buying DNXT Tokens](dnxt/buying-dnxt-tokens.md)
+  * [Staking DNXT Tokens](dnxt/staking-dnxt-tokens.md)
+
+## FAQ
+
+* [FAQ](faq/faq.md)
