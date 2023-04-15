@@ -1,6 +1,6 @@
 # Regulatory Overview
 
-In the rapidly evolving world of digital assets and blockchain technology, regulatory compliance is of utmost importance. \[Project Name] is committed to adhering to all applicable regulations and working closely with regulators to ensure the safety and security of our platform, users, and partners.
+In the rapidly evolving world of digital assets and blockchain technology, regulatory compliance is of utmost importance. DNXT is committed to adhering to all applicable regulations and working closely with regulators to ensure the safety and security of our platform, users, and partners.
 
 This section provides an overview of the regulatory landscape as it relates to our project, as well as the steps we are taking to remain compliant.
 
