@@ -1,2 +1,0 @@
-# Staking DNXT Tokens
-

@@ -52,21 +52,3 @@
   * [Integration with DeFi](whitepaper/development-roadmap/integration-with-defi.md)
 * [Conclusion](whitepaper/conclusion.md)
 * [References and Resources](whitepaper/references-and-resources.md)
-
-## Tutorials and guides
-
-* [Connecting a Wallet](tutorials-and-guides/connecting-a-wallet.md)
-* [Diamond NFT](tutorials-and-guides/diamond-nft/README.md)
-  * [Trading Diamonds](tutorials-and-guides/diamond-nft/trading-diamonds.md)
-  * [Minting Diamonds](tutorials-and-guides/diamond-nft/minting-diamonds.md)
-  * [Redeeming Diamonds](tutorials-and-guides/diamond-nft/redeeming-diamonds.md)
-
-***
-
-* [DNXT](dnxt/README.md)
-  * [Buying DNXT Tokens](dnxt/buying-dnxt-tokens.md)
-  * [Staking DNXT Tokens](dnxt/staking-dnxt-tokens.md)
-
-## FAQ
-
-* [FAQ](faq/faq.md)
